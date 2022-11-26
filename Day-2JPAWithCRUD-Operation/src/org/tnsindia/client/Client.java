@@ -15,8 +15,8 @@ public class Client {
 		
 		//create operation
 	/*	customer.setCust_ID(102);
-		customer.setName("Vikas");
-		customer.setProduct_price(300.15);
+		customer.setName("Nutan");
+		customer.setProduct_price(600.15);
 		service.addCustomer(customer);
 		System.out.println("Customer added Successfully"); */
 		
@@ -30,7 +30,7 @@ public class Client {
 		//updation
 		/*System.out.println("Enter the CustID for the updation");
 		customer=service.getCustomerById(s.nextInt());
-		customer.setName("Vikas Bankar");
+		customer.setName("Nutan Babar");
 		service.updateCustomer(customer);
 		System.out.println("Customer updated Successfully");*/
 		
