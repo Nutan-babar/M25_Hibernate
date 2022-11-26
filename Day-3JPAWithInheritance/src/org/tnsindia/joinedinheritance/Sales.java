@@ -1,4 +1,4 @@
-package org.tnsindia.jionedinheritance;
+package org.tnsindia.joinedinheritance;
 
 
 //parent class

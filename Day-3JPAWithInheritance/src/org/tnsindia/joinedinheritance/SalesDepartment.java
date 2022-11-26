@@ -1,4 +1,4 @@
-package org.tnsindia.jionedinheritance;
+package org.tnsindia.joinedinheritance;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
