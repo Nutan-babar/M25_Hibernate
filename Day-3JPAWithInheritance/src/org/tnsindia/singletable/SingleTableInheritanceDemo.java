@@ -37,7 +37,7 @@ public class SingleTableInheritanceDemo {
 		em.persist(m);
 		
 		em.getTransaction().commit();
-		System.out.println("The data is added");
+		System.out.println(" data is added");
 		em.close();
 		f.close();
 		
